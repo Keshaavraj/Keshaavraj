@@ -1,8 +1,8 @@
 
 
-📊 Data Scientist with over 10 years of experience in various domains including government services, transportation, Real Estate, finance, procurement, digital publishing, customer analytics, and packaging.
+📊 Data Scientist with over 10 years of experience in various domains including Government Services, Transportation, Real Estate, Finance, Procurement, Digital Publishing, Customer Analytics, and Packaging.
 
-🔍 Specialize in extracting actionable insights from complex datasets using advanced analytical techniques and machine learning algorithms.
+🔍 Specializied in extracting actionable insights from complex datasets using advanced analytical techniques and machine learning algorithms.
 
 💻 Proficient in Python programming, PySpark, TensorFlow, PyTorch, R, Azure ML Studio, IBM Watson Studio, Knime, MLflow, SAS Viya, IBM SPSS, Langchain, LLM, and Fabric.
 

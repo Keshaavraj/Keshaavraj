@@ -1,9 +1,8 @@
 
-Certainly, here's the updated version including IBM SPSS:
 
-📊 Data Scientist with over 10 years of experience in various domains including government services, transportation, Real Estate, finance, procurement, digital publishing, customer analytics, and packaging.
+📊 Data Scientist with over 10 years of experience in various domains such as government services, transportation, Real Estate, finance, procurement, digital publishing, customer analytics, and packaging.
 
-🔍 Specializing in extracting actionable insights from complex datasets using advanced analytical techniques and machine learning algorithms.
+🔍 Specialize in extracting actionable insights from complex datasets using advanced analytical techniques and machine learning algorithms.
 
 💻 Proficient in Python programming, R, Azure ML Studio, IBM Watson Studio, Knime, MLflow, TensorFlow, PyTorch, SAS Viya, and IBM SPSS.
 

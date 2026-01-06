@@ -1,5 +1,5 @@
 
-📊 Senior AI Engineer & Data Scientist with 10+ years architecting production-scale AI/ML solutions across Government Services, Real Estate, Transportation, Finance, Procurement, and Digital Publishing.
+📊 Lead AI Engineer & Data Scientist with 10+ years architecting production-scale AI/ML solutions across Government Services, Real Estate, Transportation, Finance, Procurement, and Digital Publishing.
 
 🤖 Specialized in Generative AI & Multi-Agent Systems: Azure OpenAI (GPT-4o), Agno Framework, LangChain, RAG Architecture, On-Premise LLM Deployment (Qwen 2.5), vLLM, FAISS, Vector Databases, and Human-in-the-Loop (HITL) systems.
 
